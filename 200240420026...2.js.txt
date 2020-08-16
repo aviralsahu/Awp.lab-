@@ -1,0 +1,6 @@
+function myfuntion() {
+
+
+    var x = document.getElementById("myform").action;
+    document.getElementById("demo").innerHTML = x;
+}
