@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <script src="1.js"></script>
+    <style>
+        html,
+        body {
+            background: yellow;
+            height: 100vh;
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+    <h3> FORM</h3>
+    <form id="myform" action="/action_page.php">
+        USERNAME :
+        <input type="text" name="fname" value="Aviral">
+        <br> PASSWORD :
+        <input type="text" value=" ">
+        <br> EMAIL:
+        <input type="text" name="fname" value="@gmail.com">
+        <br>
+        <input type="submit" value="submit">
+
+
+    </form>
+
+
+    <button onclick=" myfunction()">CLICK ME</button>
+    <p id="demo"></p>
+
+</body>
+
+</html>
