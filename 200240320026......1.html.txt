@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+        crossorigin="anonymous">
+
+    <title>document</title>
+</head>
+
+<body>
+
+
+    <div class="container-fluid">
+
+        <div class="row bg-primary sticky-top;
+      style height=65px;
+        justify-content-between align-item-center">
+
+
+            <div class="col-6 text-light" style=" font-size 1.25rem;">
+                my project
+
+            </div>
+
+            <div class="col-3 d-flex justify-content-end text-light">
+
+                log out
+
+            </div>
+        </div>
+
+        <div class="row mt-1 justify-content-center
+style=height:200px;">
+
+            <div class="col-12 col -md-6 bg-primary round d-flex justify-content-center align-item-center text-light" style="font-size:1.6rem; font-family:cursive;">
+
+
+                Aviral sahu</div>
+
+        </div>
+
+        <div class="row mt-1 justify-content-center
+        style=height:200px;">
+
+            <div class="col-12 col -md-6 bg-primary round d-flex justify-content-center align-item-center text-light" style="font-size:1.6rem; font-family:cursive;">
+
+
+                hello cdac</div>
+
+        </div>
+
+        <div class="row mt-1 justify-content-center
+        style=height:200px;">
+
+            <div class="col-12 col -md-6 bg-primary round d-flex justify-content-center align-item-center text-light" style="font-size:1.6rem; font-family:cursive;">
+
+
+                hello world</div>
+
+        </div>
+
+        <div class="row mt-1 justify-content-center
+        style=height:200px;">
+
+            <div class="col-12 col -md-6 bg-primary round d-flex justify-content-center align-item-center text-light" style="font-size:1.6rem; font-family:cursive;">
+
+
+                responsive layout</div>
+
+        </div>
+
+
+
+
+</body>
+
+</html>
